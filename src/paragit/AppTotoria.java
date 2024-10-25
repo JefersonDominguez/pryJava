@@ -1,10 +1,8 @@
 
 package paragit;
 
-/**
- *
- * @author jeffe
- */
 public class AppTotoria {
+    private String nombre;
+    private String Apellido;
     
 }
